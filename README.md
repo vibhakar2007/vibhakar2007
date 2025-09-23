@@ -58,13 +58,13 @@ I love crafting clean, scalable solutions — from modern front-ends to powerful
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/vibhakar2007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/vibhakar-s-54a16a271/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourhandle">
+  <a href="https://instagram.com/__im_vibha__">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
