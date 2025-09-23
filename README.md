@@ -15,7 +15,7 @@ I love crafting clean, scalable solutions — from modern front-ends to powerful
 
 #### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind,sass" height="48" />
 </p>
 
 #### **Backend & Database**
