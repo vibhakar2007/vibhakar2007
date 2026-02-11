@@ -50,11 +50,11 @@ I love crafting clean, scalable solutions — from modern front-ends to powerful
 ---
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Umeshwar2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=vibhakar2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Umeshwar2007&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=vibhakar2007&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umeshwar2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhakar2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
